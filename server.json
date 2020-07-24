@@ -23,6 +23,18 @@
       "title": "Nome do produto 04",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 80
+    },
+    {
+      "id": "1234567",
+      "title": "Caneca os vingadores",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXLkQnx68lydkgdIU7yLjMCqBqTHNABO-D3ImPl93r4zjK0Czu3oewRAn7piWiuzlsWCEwfKGZtmM&usqp=CAc",
+      "price": 35
+    },
+    {
+      "id": "12345678",
+      "title": "Caneca comum",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRHb7lg4ZevTLFs7yjpaNdok0kwWS-LtWoJ4TV_DD8SKHn-zOH04ZV3pEzKAyARBP0hRAs5wnL9BYM&usqp=CAc",
+      "price": 15
     }
   ]
 }

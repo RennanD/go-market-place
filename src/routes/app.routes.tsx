@@ -35,7 +35,7 @@ const AppRoutes: React.FC = () => (
         headerTitle: () => <Image source={Logo} />,
         headerBackTitleVisible: false,
         headerLeftContainerStyle: {
-          marginLeft: 20,
+          marginLeft: 10,
         },
 
         headerBackImage: () => <FeatherIcon name="chevron-left" size={24} />,
