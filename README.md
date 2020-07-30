@@ -41,8 +41,6 @@ $ cd go-market-place
 
 ## ⚡️ Start
 
-Open a new terminal and, run:
-
 ```
 $ yarn
 $ yarn json-server server.json -p 3333 -w
