@@ -46,13 +46,13 @@ $ yarn
 $ yarn json-server server.json -p 3333 -w
 ```
 
-Ps.: In file `service/api.ts`, change `baseURL` to your current ip with `3333` port
+Ps.: In file `service/api.ts`, change `baseURL` to your current ip with port `3333`
 
 ### 👾 Android
 
 You need [Android's SDK](https://developer.android.com/studio)
 
-In new teminal tab, run:
+Open new teminal's tab and run:
 
 ```
 $ yarn android
