@@ -46,7 +46,7 @@ $ yarn
 $ yarn json-server server.json -p 3333 -w
 ```
 
-Ps.: In file `service/api.ts`, change `baseURL` to your current ip and `3333 port`
+Ps.: In file `service/api.ts`, change `baseURL` to your current ip with `3333` port
 
 ### 👾 Android
 
